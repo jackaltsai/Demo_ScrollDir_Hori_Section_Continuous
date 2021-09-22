@@ -13,6 +13,7 @@
 		661CD1C726FAFC26001A7432 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 661CD1C526FAFC26001A7432 /* Main.storyboard */; };
 		661CD1C926FAFC32001A7432 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 661CD1C826FAFC32001A7432 /* Assets.xcassets */; };
 		661CD1CC26FAFC32001A7432 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 661CD1CA26FAFC32001A7432 /* LaunchScreen.storyboard */; };
+		661CD1D426FAFEC3001A7432 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 661CD1D326FAFEC3001A7432 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		661CD1C826FAFC32001A7432 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		661CD1CB26FAFC32001A7432 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		661CD1CD26FAFC32001A7432 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		661CD1D326FAFEC3001A7432 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				661CD1BF26FAFC26001A7432 /* AppDelegate.swift */,
 				661CD1C126FAFC26001A7432 /* SceneDelegate.swift */,
 				661CD1C326FAFC26001A7432 /* ViewController.swift */,
+				661CD1D326FAFEC3001A7432 /* CollectionViewCell.swift */,
 				661CD1C526FAFC26001A7432 /* Main.storyboard */,
 				661CD1C826FAFC32001A7432 /* Assets.xcassets */,
 				661CD1CA26FAFC32001A7432 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				661CD1C426FAFC26001A7432 /* ViewController.swift in Sources */,
 				661CD1C026FAFC26001A7432 /* AppDelegate.swift in Sources */,
+				661CD1D426FAFEC3001A7432 /* CollectionViewCell.swift in Sources */,
 				661CD1C226FAFC26001A7432 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
